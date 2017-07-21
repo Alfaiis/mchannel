@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="lib/colt.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jung-1.7.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/bsh-1.2b3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jgroups-all.jar" sourcepath="D:/dev/MANET/omolsr/lib/jgroups-all.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jms.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
